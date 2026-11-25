@@ -10,4 +10,10 @@
 | 2026-11-25 | Binary Search | Basic Algorithms | Easy | Completed | Not recorded |
 | 2026-11-25 | Move Zeroes | Arrays & Strings | Easy | Completed | Not recorded |
 | 2026-11-25 | Valid Parentheses | Stacks | Easy | Completed | Not recorded |
-| - | Reverse Linked List | Linked Lists | Easy | Not Started | - |
+| 2026-11-25 | Reverse Linked List | Linked Lists | Easy | Completed | Not recorded |
+
+## Summary
+
+- Main Problems Completed: 8
+- Bonus Problems Completed: 1
+- Total Problems Completed: 9
