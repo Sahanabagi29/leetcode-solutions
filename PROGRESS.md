@@ -8,6 +8,6 @@
 | 2026-11-25 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | Completed | Not recorded |
 | 2026-11-25 | Longest Common Prefix | Arrays & Strings | Easy | Completed | Not recorded |
 | 2026-11-25 | Binary Search | Basic Algorithms | Easy | Completed | Not recorded |
-| - | Move Zeroes | Arrays & Strings | Easy | Not Started | - |
+| 2026-11-25 | Move Zeroes | Arrays & Strings | Easy | Completed | Not recorded |
 | - | Valid Parentheses | Stacks | Easy | Not Started | - |
 | - | Reverse Linked List | Linked Lists | Easy | Not Started | - |
