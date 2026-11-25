@@ -1,14 +1,14 @@
-# LeetCode Progress Tracker
 
-This file tracks my LeetCode practice and problem-solving progress.
+# LeetCode Practice Progress
 
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |---|---|---|---|---|---|
-| DD/MM | Two Sum | Arrays | Easy | Not Started | - |
-| DD/MM | Reverse a String | Arrays & Strings | Easy | Not Started | - |
-| DD/MM | Valid Anagram | Arrays & Strings | Easy | Not Started | - |
-| DD/MM | Best Time to Buy and Sell Stock | Arrays | Easy | Not Started | - |
-| DD/MM | Longest Common Prefix | Strings | Easy | Not Started | - |
-| DD/MM | Binary Search | Basic Algorithms | Easy | Not Started | - |
-| DD/MM | Move Zeroes | Basic Algorithms | Easy | Not Started | - |
-| DD/MM | Valid Parentheses | Stacks | Easy | Not Started | - |
+| 2026-11-25 | Two Sum | Arrays & Strings | Easy | Completed | Not recorded |
+| - | Reverse String | Arrays & Strings | Easy | Not Started | - |
+| - | Valid Anagram | Arrays & Strings | Easy | Not Started | - |
+| - | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | Not Started | - |
+| - | Longest Common Prefix | Arrays & Strings | Easy | Not Started | - |
+| - | Binary Search | Basic Algorithms | Easy | Not Started | - |
+| - | Move Zeroes | Arrays & Strings | Easy | Not Started | - |
+| - | Valid Parentheses | Stacks | Easy | Not Started | - |
+| - | Reverse Linked List | Linked Lists | Easy | Not Started | - |
