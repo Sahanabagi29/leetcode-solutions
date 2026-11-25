@@ -4,7 +4,7 @@
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |---|---|---|---|---|---|
 | 2026-11-25 | Two Sum | Arrays & Strings | Easy | Completed | Not recorded |
-| - | Reverse String | Arrays & Strings | Easy | Not Started | - |
+| 2026-11-25 | Reverse String | Arrays & Strings | Easy | Completed | Not recorded |
 | - | Valid Anagram | Arrays & Strings | Easy | Not Started | - |
 | - | Best Time to Buy and Sell Stock | Arrays & Strings | Easy | Not Started | - |
 | - | Longest Common Prefix | Arrays & Strings | Easy | Not Started | - |
