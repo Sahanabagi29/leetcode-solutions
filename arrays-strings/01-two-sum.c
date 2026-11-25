@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 void twoSum(int nums[], int n, int target) {
